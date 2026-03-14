@@ -25,16 +25,14 @@ Project ini berisi test case otomatisasi menggunakan **Katalon Studio** untuk me
 8. Close Browser.  
 
 ## 💡 Handling Dynamic Elements
-- Gunakan `WebUI.waitForElementVisible()` sebelum verifikasi.  
-- Hindari `findTestObject(null)` → pastikan semua objek ada di Object Repository.  
+- Gunakan `WebUI.waitForElementVisible()` sebelum verifikasi.
+- Hindari `findTestObject(null)` → pastikan semua objek ada di Object Repository.
 - Buat locator dinamis dengan XPath seperti:
   ```xpath
   //h2[contains(text(),'Agile')]
-  
-  
-  
+    ```
   ## 🚀 Eksekusi
-- Jalankan test case **search dan verify keyword**.  
-- Pastikan browser driver sesuai dengan versi Chrome.  
-- Hasil log akan menunjukkan apakah kata **Agile** ditemukan.  
+- Jalankan test case **search dan verify keyword**.
+- Pastikan browser driver sesuai dengan versi Chrome.
+- Hasil log akan menunjukkan apakah kata **Agile** ditemukan.
   
