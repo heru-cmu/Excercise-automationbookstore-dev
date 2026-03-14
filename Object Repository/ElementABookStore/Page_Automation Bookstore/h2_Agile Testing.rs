@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Agile Testing</name>
+   <tag></tag>
+   <elementGuidId>3bd46db2-befa-4d51-b611-6572ae057bf6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='pid3_title']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#pid3_title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Agile Testing Lisa Crispin and Janet Gregory $49.07&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>cc28edb4-8968-4769-9c57-dbb34fcda821</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>pid3_title</value>
+      <webElementGuid>c21f9d6c-7599-4f10-96e6-27b0e893c66f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Agile Testing</value>
+      <webElementGuid>d553401e-6218-4014-a256-8295c4596ef3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pid3_title&quot;)</value>
+      <webElementGuid>096f4b8d-209c-4038-8b1b-2a5c54466ede</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='pid3_title']</value>
+      <webElementGuid>ef800bd8-9b7f-4a76-9111-15dde3a4b6cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='pid3']/a/h2</value>
+      <webElementGuid>0137a32f-117e-4625-ba52-a141f92d1d1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Experiences of Test Automation'])[1]/following::h2[1]</value>
+      <webElementGuid>38eeef5d-e512-48a4-bf19-98177dc3394b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Automation in the Real World'])[1]/following::h2[2]</value>
+      <webElementGuid>2a97438d-2ff7-4f55-9b3a-f99926adf2c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How Google Tests Software'])[1]/preceding::h2[1]</value>
+      <webElementGuid>01654592-fdd0-417e-9e6c-db93c4ba6ca0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Java For Testers'])[1]/preceding::h2[2]</value>
+      <webElementGuid>f0c1b7a4-f440-4b9a-a135-c6a22dd77928</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Agile Testing']/parent::*</value>
+      <webElementGuid>d2d70732-3c22-4f34-8fef-87926b706844</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/h2</value>
+      <webElementGuid>907ecb9e-f1b4-45f7-b342-2e2f5a5b12c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'pid3_title' and (text() = 'Agile Testing' or . = 'Agile Testing')]</value>
+      <webElementGuid>3defb6fb-6bdc-494b-9571-b623bb95c534</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
