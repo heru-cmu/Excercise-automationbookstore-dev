@@ -30,17 +30,6 @@ Project ini berisi test case otomatisasi menggunakan **Katalon Studio** untuk me
 - Buat locator dinamis dengan XPath seperti:
   ```xpath
   //h2[contains(text(),'Agile')]
-
-  ## 📂 Struktur Project
-  AutomationBookstore/
-├── Test Cases/
-│   └── search dan verify keyword
-├── Object Repository/
-│   └── ElementABookStore/
-│       ├── input_Automation Bookstore_searchBar
-│       └── div_BookTitle
-└── Profiles/
-    └── default (GlobalVariable.Urlabookstore)
   
   ## 🚀 Eksekusi
 - Jalankan test case **search dan verify keyword**.  
